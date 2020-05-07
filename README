@@ -1,1 +1,6 @@
+To compile use make command
+$make
+to execute use
+./oss
+we can see output in output.txt file
 
