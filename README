@@ -4,3 +4,11 @@ to execute use
 ./oss
 we can see output in output.txt file
 
+Out of both the methods the first methods approach towards memeory is completely random 
+while the second one is requesting with weightage basis.
+The second approach is more practical in the real world.
+
+For Version Control:
+Git: /classes/OS/pelaprol/pelaprol.6/log
+
+
